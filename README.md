@@ -1,8 +1,2 @@
 # Animate-Ball
-# Animate-Ball
-# Animate-Ball
-# Animate-Ball
-# Animate-Ball
-# Animation-Ball
-# Animate-Ball
-# Animate-Ball
+how to add animation using css
