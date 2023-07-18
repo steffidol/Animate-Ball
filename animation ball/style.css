@@ -1,0 +1,26 @@
+@keyframes pulse {
+  16% {
+    background-color: red;
+  }
+  32% {
+    background-color: orange;
+  }
+  48% {
+    background-color: yellow;
+  }
+  64% {
+    background-color: green;
+  }
+  80% {
+    background-color: blue;
+  }
+  100% {
+    background-color: purple;
+  }
+}
+
+body {
+  background-color: aqua;
+  animation-name: pulse;
+  animation-duration: 10s;
+}
